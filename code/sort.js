@@ -86,3 +86,44 @@ const InsertSort = (sourceArray) => {
 
 
 console.log(InsertSort(arr))
+
+// 归并排序
+// 申请空间，使其大小为两个已经排序序列之和，该空间用来存放合并后的序列；
+// 设定两个指针，最初位置分别为两个已经排序序列的起始位置；
+// 比较两个指针所指向的元素，选择相对小的元素放入到合并空间，并移动指针到下一位置；
+// 重复步骤 3 直到某一指针达到序列尾；
+// 将另一序列剩下的所有元素直接复制到合并序列尾。
+
+const merge = (left, right) => {
+    let arr = [];
+    while(left.length>0 && right.length>0){
+        if(left[0] < right[0]){
+            arr.push(left.shift())
+        }else{
+            arr.push(right.shift())
+        }
+    }
+    if(left.length> 0){
+        arr = arr.concat(left)
+    }
+    if(right.length> 0){
+        arr = arr.concat(right)
+    }
+    return arr;
+};
+const MergeSort = (sourceArray) => {
+    if(!Array.isArray(sourceArray) || !sourceArray.length) return sourceArray;
+    const arr = [...sourceArray];
+
+    if(arr.length < 2){
+        return arr;
+    }
+
+    const middleIndex = Math.floor(arr.length / 2);
+    const left = arr.splice(0, middleIndex);
+    const right = arr;
+
+    return merge(MergeSort(left), MergeSort(right))
+
+}
+console.log('MergeSort',MergeSort(arr))
