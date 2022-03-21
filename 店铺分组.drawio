@@ -1,1 +1,238 @@
-<mxfile host="app.diagrams.net" modified="2022-03-18T09:08:36.729Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" version="16.5.5" etag="wQFT8-ZP0noInnxdjZew" type="github"><diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">7VpNc5swEP01PnYGEHbcY+PmY6ZOJjM+9KwgBdQK5BHCmPz6SkYyn8EkxglOmkvQYxHSe6vdlfAELMLtDYfr4I4hTCeOhbYT8HPiOLbjAPlPIVmOzNxpDvicIG1UACvyjDVoaTQhCMcVQ8EYFWRdBT0WRdgTFQxyztKq2ROj1beuoY8bwMqDtIn+JkgEOTp3Lgr8FhM/MG+2Z9/zOyE0xnomcQARS0sQuJqABWdM5FfhdoGpIs/wkj93/cLd/cA4jkSfB9D9Nrv/deFdzB+X6SZG+O52+s3Wo91AmugZP0h69YhFZmiIUxJSGMnWZSBCKkFbXnoBoWgJM5aoEcQCen9N65LjWIr5YIZn16A7qFzEUv0xTp5ZJCDVgOyHC+0JTtVipV6hzZrz15RsMBd4W4I0HzeYhVjwTJrs3VNrk9XaaSG1O9VYUJIZzDQItXv5+74LBeSFFuEVghjHKgnSEAMj6aK6ybgImM8iSK8K9JKzJEIYaaYKmyVjay3GHyxEplmGiWBVZRGMg93zqoEj9EMtJdmM2M4HJHJNKH1RiU5fi1nCPdzFgasXOuQ+7urRmeWGipBOvTmmUJBNdU0Prh2wP0KqkjoehXFMvIpA9ikEmvcUCFjjEmj6X6AaI+64BJp/FYFmfQUaPMTtHpXzhVnJYM1IJOJSzw8KKGXKeTVTArdWbNTsXavTXl7kIyhcZT+VI3Kn1cidS1WzOFYzMLcXNB2lx9tyXf9apK30AC2lx75GGb70mI6i9OjJ8L6sPrjUQN9qYlyx0Iy7Uw5K5UZI0Z4GRODVGu6oSOVe7ChS+7utW13nbosXtzixezIfdg+TVvXQA8Q9ycV/DUNC1QRvMd1gQTyob2gfth3dXjDK+O4lwNr9SRxS4kcqs0jmMT+lFPXdDGhqMW/R4mRbGdDHgc8pu/cOOYb5w9ndGVXIAc0E+mVWTz2Sffjqcc4h/O8PQsYS/+0Ga7oEbLI32hKw6zTqnUvC5vHgmYdwsxMYbINmttojCeFm3J8ghB99nPvRIdy4RqcWAQsfk/hT6eCMLSk0U6lOCuDskkIrme+bFMA4PlEMmBTM+A/W9X0/TAx/anecYp9nV2yW8pvr+pai6n3r+j4JevxJ4dU61HcKLcl5oKQgm8VX9fxsufhtArj6Bw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-21T02:38:43.478Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="egesg9cFfkm6qKmjneLr" version="16.5.5" type="github">
+  <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
+    <mxGraphModel dx="1623" dy="905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MmXLAwVcXEivRW8_NUiU-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="MmXLAwVcXEivRW8_NUiU-14" target="MmXLAwVcXEivRW8_NUiU-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MmXLAwVcXEivRW8_NUiU-14" value="创建分组" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="357" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MmXLAwVcXEivRW8_NUiU-16" value="创建次级分组" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="443" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MmXLAwVcXEivRW8_NUiU-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;" edge="1" parent="1" source="MmXLAwVcXEivRW8_NUiU-89" target="MmXLAwVcXEivRW8_NUiU-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MmXLAwVcXEivRW8_NUiU-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;startArrow=none;" edge="1" parent="1" source="MmXLAwVcXEivRW8_NUiU-89" target="MmXLAwVcXEivRW8_NUiU-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MmXLAwVcXEivRW8_NUiU-18" value="绑定商品/圈品" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="848" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MmXLAwVcXEivRW8_NUiU-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MmXLAwVcXEivRW8_NUiU-19" target="MmXLAwVcXEivRW8_NUiU-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MmXLAwVcXEivRW8_NUiU-19" value="是否在店铺显示" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="763" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MmXLAwVcXEivRW8_NUiU-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MmXLAwVcXEivRW8_NUiU-20" target="MmXLAwVcXEivRW8_NUiU-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MmXLAwVcXEivRW8_NUiU-20" value="删除" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="603" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MmXLAwVcXEivRW8_NUiU-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" edge="1" parent="1" source="MmXLAwVcXEivRW8_NUiU-76" target="MmXLAwVcXEivRW8_NUiU-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MmXLAwVcXEivRW8_NUiU-21" value="编辑名称" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="523" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MmXLAwVcXEivRW8_NUiU-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MmXLAwVcXEivRW8_NUiU-22" target="MmXLAwVcXEivRW8_NUiU-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MmXLAwVcXEivRW8_NUiU-22" value="排序" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="683" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MmXLAwVcXEivRW8_NUiU-23" value="&lt;font style=&quot;font-size: 32px&quot;&gt;sdk&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="724.3299999999999" y="58" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MmXLAwVcXEivRW8_NUiU-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="MmXLAwVcXEivRW8_NUiU-24" target="MmXLAwVcXEivRW8_NUiU-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MmXLAwVcXEivRW8_NUiU-24" value="获取分组信息&lt;br&gt;fetch" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="699.3299999999999" y="214" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MmXLAwVcXEivRW8_NUiU-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;" edge="1" parent="1" source="MmXLAwVcXEivRW8_NUiU-58" target="MmXLAwVcXEivRW8_NUiU-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MmXLAwVcXEivRW8_NUiU-25" value="进入页面" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="215" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MmXLAwVcXEivRW8_NUiU-27" value="创建分组&lt;br&gt;ceateCategory" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="699.3299999999999" y="401" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MmXLAwVcXEivRW8_NUiU-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MmXLAwVcXEivRW8_NUiU-31" target="MmXLAwVcXEivRW8_NUiU-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MmXLAwVcXEivRW8_NUiU-31" value="更新名称&lt;br&gt;updateName" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="699.3299999999999" y="523" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MmXLAwVcXEivRW8_NUiU-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MmXLAwVcXEivRW8_NUiU-32" target="MmXLAwVcXEivRW8_NUiU-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MmXLAwVcXEivRW8_NUiU-32" value="删除分组&lt;br&gt;removeCategory" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="699.3299999999999" y="602" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MmXLAwVcXEivRW8_NUiU-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MmXLAwVcXEivRW8_NUiU-33" target="MmXLAwVcXEivRW8_NUiU-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MmXLAwVcXEivRW8_NUiU-33" value="排序&lt;br&gt;adjustCategory" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="699.3299999999999" y="682" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MmXLAwVcXEivRW8_NUiU-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MmXLAwVcXEivRW8_NUiU-34" target="MmXLAwVcXEivRW8_NUiU-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MmXLAwVcXEivRW8_NUiU-34" value="更新显示状态&lt;br&gt;updateStatus" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="699.3299999999999" y="762" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MmXLAwVcXEivRW8_NUiU-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MmXLAwVcXEivRW8_NUiU-35" target="MmXLAwVcXEivRW8_NUiU-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MmXLAwVcXEivRW8_NUiU-35" value="更新自动圈品" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="699.3299999999999" y="848" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MmXLAwVcXEivRW8_NUiU-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MmXLAwVcXEivRW8_NUiU-36" target="MmXLAwVcXEivRW8_NUiU-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MmXLAwVcXEivRW8_NUiU-36" value="更新手动圈品" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="699.3299999999999" y="931" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MmXLAwVcXEivRW8_NUiU-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MmXLAwVcXEivRW8_NUiU-43" target="MmXLAwVcXEivRW8_NUiU-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MmXLAwVcXEivRW8_NUiU-43" value="查找分组信息&lt;br&gt;findCategoryById" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="879.3299999999999" y="701" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MmXLAwVcXEivRW8_NUiU-53" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MmXLAwVcXEivRW8_NUiU-50" target="MmXLAwVcXEivRW8_NUiU-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MmXLAwVcXEivRW8_NUiU-55" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MmXLAwVcXEivRW8_NUiU-50" target="MmXLAwVcXEivRW8_NUiU-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MmXLAwVcXEivRW8_NUiU-50" value="校验是否存在" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="899.3299999999999" y="581" width="80" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="MmXLAwVcXEivRW8_NUiU-52" value="抛出错误" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1039.33" y="588.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MmXLAwVcXEivRW8_NUiU-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MmXLAwVcXEivRW8_NUiU-54" target="MmXLAwVcXEivRW8_NUiU-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="949.3299999999999" y="338" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MmXLAwVcXEivRW8_NUiU-54" value="更新" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="879.3299999999999" y="475" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MmXLAwVcXEivRW8_NUiU-57" value="&lt;font style=&quot;font-size: 32px&quot;&gt;demo&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="314.99999999999994" y="58" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MmXLAwVcXEivRW8_NUiU-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="MmXLAwVcXEivRW8_NUiU-58" target="MmXLAwVcXEivRW8_NUiU-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MmXLAwVcXEivRW8_NUiU-58" value="实例化SDK、存储分组数据、渲染" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="314.9999999999999" y="214" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MmXLAwVcXEivRW8_NUiU-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;" edge="1" parent="1" source="MmXLAwVcXEivRW8_NUiU-25" target="MmXLAwVcXEivRW8_NUiU-58">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="245" as="sourcePoint" />
+            <mxPoint x="699.3299999999999" y="244" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MmXLAwVcXEivRW8_NUiU-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=32;" edge="1" parent="1" source="MmXLAwVcXEivRW8_NUiU-60" target="MmXLAwVcXEivRW8_NUiU-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MmXLAwVcXEivRW8_NUiU-60" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=32;" vertex="1" parent="1">
+          <mxGeometry x="85" y="50" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MmXLAwVcXEivRW8_NUiU-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="MmXLAwVcXEivRW8_NUiU-63" target="MmXLAwVcXEivRW8_NUiU-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MmXLAwVcXEivRW8_NUiU-63" value="&lt;font style=&quot;font-size: 20px&quot;&gt;data&lt;/font&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontSize=32;" vertex="1" parent="1">
+          <mxGeometry x="724.33" y="121" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MmXLAwVcXEivRW8_NUiU-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="MmXLAwVcXEivRW8_NUiU-65" target="MmXLAwVcXEivRW8_NUiU-79">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="289" y="140" />
+              <mxPoint x="289" y="341" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MmXLAwVcXEivRW8_NUiU-65" value="&lt;font style=&quot;font-size: 20px&quot;&gt;data&lt;/font&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontSize=32;" vertex="1" parent="1">
+          <mxGeometry x="340.00000000000006" y="120" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MmXLAwVcXEivRW8_NUiU-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="MmXLAwVcXEivRW8_NUiU-69" target="MmXLAwVcXEivRW8_NUiU-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MmXLAwVcXEivRW8_NUiU-69" value="&lt;font style=&quot;font-size: 14px&quot;&gt;CategoryManage&lt;/font&gt;" style="html=1;dropTarget=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="310" y="401" width="140" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="MmXLAwVcXEivRW8_NUiU-70" value="" style="shape=module;jettyWidth=8;jettyHeight=4;fontSize=20;" vertex="1" parent="MmXLAwVcXEivRW8_NUiU-69">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MmXLAwVcXEivRW8_NUiU-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;" edge="1" parent="1" source="MmXLAwVcXEivRW8_NUiU-16" target="MmXLAwVcXEivRW8_NUiU-69">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="472.9999999999998" as="sourcePoint" />
+            <mxPoint x="699.3299999999999" y="431" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MmXLAwVcXEivRW8_NUiU-76" value="&lt;font style=&quot;font-size: 14px&quot;&gt;CategoryManage&lt;/font&gt;" style="html=1;dropTarget=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="310" y="523" width="140" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="MmXLAwVcXEivRW8_NUiU-77" value="" style="shape=module;jettyWidth=8;jettyHeight=4;fontSize=20;" vertex="1" parent="MmXLAwVcXEivRW8_NUiU-76">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MmXLAwVcXEivRW8_NUiU-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;" edge="1" parent="1" source="MmXLAwVcXEivRW8_NUiU-21" target="MmXLAwVcXEivRW8_NUiU-76">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="552.9999999999998" as="sourcePoint" />
+            <mxPoint x="699.3299999999999" y="552" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MmXLAwVcXEivRW8_NUiU-79" value="&lt;font style=&quot;font-size: 14px&quot;&gt;CategoryTable&lt;br&gt;&lt;/font&gt;" style="html=1;dropTarget=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="309" y="310" width="140" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="MmXLAwVcXEivRW8_NUiU-80" value="" style="shape=module;jettyWidth=8;jettyHeight=4;fontSize=20;" vertex="1" parent="MmXLAwVcXEivRW8_NUiU-79">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MmXLAwVcXEivRW8_NUiU-83" value="&lt;font style=&quot;font-size: 14px&quot;&gt;PopConfirm&lt;/font&gt;" style="html=1;dropTarget=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="309" y="603" width="140" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="MmXLAwVcXEivRW8_NUiU-84" value="" style="shape=module;jettyWidth=8;jettyHeight=4;fontSize=20;" vertex="1" parent="MmXLAwVcXEivRW8_NUiU-83">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MmXLAwVcXEivRW8_NUiU-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;endArrow=none;" edge="1" parent="1" source="MmXLAwVcXEivRW8_NUiU-18" target="MmXLAwVcXEivRW8_NUiU-89">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="878" as="sourcePoint" />
+            <mxPoint x="699.3299999999999" y="961.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MmXLAwVcXEivRW8_NUiU-89" value="&lt;font style=&quot;font-size: 14px&quot;&gt;productDialog&lt;br&gt;&lt;/font&gt;" style="html=1;dropTarget=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="310" y="848" width="140" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="MmXLAwVcXEivRW8_NUiU-90" value="" style="shape=module;jettyWidth=8;jettyHeight=4;fontSize=20;" vertex="1" parent="MmXLAwVcXEivRW8_NUiU-89">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MmXLAwVcXEivRW8_NUiU-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;" edge="1" parent="1" source="MmXLAwVcXEivRW8_NUiU-18" target="MmXLAwVcXEivRW8_NUiU-89">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="878" as="sourcePoint" />
+            <mxPoint x="699.3299999999999" y="877" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
